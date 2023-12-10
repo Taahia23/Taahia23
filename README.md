@@ -49,9 +49,22 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Taahia23&theme=monokai" alt="GitHub Stats">
 </p>
 
-### My Awesome Project 🔥
- ## Dina Restaurant 
- ## Description: 
+## My Awesome Project 🔥
+ ### Real Estate Platform 
+ ### Description: 
+Homez, an online platform where people can add and buy real estate properties using the MERN stack. There is three dashboard for Admin, Agent and user.. User can easily buy a property as they wish..
+ ## Technologies Used :  
+ - Front-End : React JS, JavaScript, Tailwind CSS, HTML  
+ -  Back-End: Express JS, Node JS
+ - Database : MongoDB
+ - Authentication : Firebase with JWT
+
+ - [Client Site](https://github.com/programming-hero-web-course1/b8a12-client-side-Taahia23)
+ - [Server Site](https://github.com/programming-hero-web-course1/b8a12-server-side-Taahia23)
+ - [Live Site](https://true-lace.surge.sh/)
+
+ ### Dina Restaurant 
+ ### Description: 
  Dina restaurant, an elegant restaurant website which is user friendly and help users to easily find any recipes , book a table , add any food items and update that..
  ## Technologies Used :  
  - Front-End : React JS, JavaScript, Tailwind CSS, HTML  
