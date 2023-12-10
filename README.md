@@ -48,7 +48,10 @@
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Taahia23/langs)](https://githubtrends.io)
 
 
-
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Taahia23&theme=monokai" alt="GitHub Repo Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Taahia23&theme=radical" alt="GitHub Stats" width="400"/>
+</p>
 
 
 
