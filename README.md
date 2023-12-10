@@ -44,6 +44,8 @@
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Taahia23/langs)](https://githubtrends.io)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Taahia23&theme=darcula)
+
 
 
 
