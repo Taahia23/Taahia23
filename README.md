@@ -10,6 +10,9 @@
 - 🌱 I’m currently studying in **Computer Science and Engineering**
 
 - 📫 How to reach me **taahiatahsin@gmail.com**
+- 📫 I'm currenty working on **Online Grocery Store**
+- 📫 Exploring **Node js and  MongoDB**
+- 📫 Fun Fact **I'm also a nature photographer**
 
 <h1 align="center">Current stats</h1>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taahia23&" alt="taahia23" /></p>
