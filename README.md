@@ -34,6 +34,8 @@
 
 <br/>
 <br/> 
+
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Taahia23&theme=monokai)
 
 <p align="left">&nbsp; &nbsp; &nbsp; &nbsp;<img width="300" height="250" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=taahia23&show_icons=true&locale=en&layout=compact" alt="taahia23" /></p>
@@ -45,7 +47,7 @@
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Taahia23/langs)](https://githubtrends.io)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Taahia23&theme=darcula)
+
 
 
 
