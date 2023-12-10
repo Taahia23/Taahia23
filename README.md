@@ -12,7 +12,7 @@
 - 📫 How to reach me **taahiatahsin@gmail.com**
 
 <h1 align="center">Current stats</h1>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taahia23&" alt="taahia23" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taahia23&" alt="taahia23" /></p>
 
 
 <h3 align="left">Connect with me:</h3>
