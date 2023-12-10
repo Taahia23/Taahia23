@@ -35,7 +35,10 @@
 <br/>
 <br/> 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Taahia23&theme=monokai)
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Taahia23&theme=monokai" alt="GitHub Profile Details">
+</p>
+
 
 
 
