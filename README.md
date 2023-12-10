@@ -42,6 +42,8 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Taahia23&theme=radical)
 
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Taahia23/langs)](https://githubtrends.io)
+
 
 
 
