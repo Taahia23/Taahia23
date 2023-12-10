@@ -1,6 +1,12 @@
-## HI! I'm Taahia Tahsin
+### Hi there 👋, I'm Taahia Tahsin
+#### Front-End web developer
+![Front-End web developer](https://github.com/Taahia23/Taahia23/blob/main/1.png)
 
-##Languages
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-<br/>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Taahia23&theme=dark)](https://git.io/streak-stats)
+
+Skills:  REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
