@@ -22,8 +22,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=taahia23&show_icons=true&locale=en&layout=compact" alt="taahia23" /></p>
 
+
+###
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taahia23&show_icons=true&locale=en" alt="taahia23" /></p>
 
+###Current stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taahia23&" alt="taahia23" /></p>
 
 
