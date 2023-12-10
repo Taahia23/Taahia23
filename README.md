@@ -23,7 +23,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=taahia23&show_icons=true&locale=en&layout=compact" alt="taahia23" /></p>
 
 
-###
+<h1 align="center">Current stats</h1>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taahia23&show_icons=true&locale=en" alt="taahia23" /></p>
 
 ###Current stats
