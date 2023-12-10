@@ -49,6 +49,22 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Taahia23&theme=monokai" alt="GitHub Stats">
 </p>
 
+### My Awesome Project 🔥
+ ## Dina Restaurant 
+ ## Description: Dina restaurant, an elegant restaurant website which is user friendly and help users to easily find any recipes , book a table , add any food items and update that..
+ ## Technologies Used :  - Front-End : React JS, JavaScript, Tailwind CSS, HTML  
+ -  Back-End: Express JS, Node JS
+- Database : MongoDB
+- Authentication : Firebase
+
+  - [Client Site](https://github.com/Taahia23/dina-restaurant-client)
+- [GitHub](https://www.github.com)
+- [OpenAI](https://www.openai.com)
+
+
+                      
+ 
+
 
 
 
