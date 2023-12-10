@@ -10,7 +10,7 @@
 - 🌱 I’m currently studying in **Computer Science and Engineering**
 
 - 📫 How to reach me **taahiatahsin@gmail.com**
-- 📫 I'm currenty working on **Online Grocery Store**
+- 📫 I'm currenty working on my project **Online Grocery Store**
 - 📫 Exploring **Node js and  MongoDB**
 - 📫 Fun Fact **I'm also a nature photographer**
 
