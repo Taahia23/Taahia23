@@ -40,14 +40,6 @@
 
 <p align="left">&nbsp; &nbsp; &nbsp; &nbsp;<img width="300" height="250" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=taahia23&show_icons=true&locale=en&layout=compact" alt="taahia23" /></p>
 
-<p align="right"><img  width="350" height="200" align="right" src="https://github-readme-stats.vercel.app/api?username=taahia23&show_icons=true&locale=en" alt="taahia23" /> &nbsp; &nbsp; &nbsp; &nbsp;</p>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Taahia23&theme=monokai)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Taahia23&theme=radical)
-
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Taahia23/langs)](https://githubtrends.io)
-
-
 
 
 <p align="center">
