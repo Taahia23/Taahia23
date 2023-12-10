@@ -15,8 +15,8 @@
 - 📫 Fun Fact **I'm also a nature photographer**
 
 <h1 align="center">Current stats</h1>
-<a align="center" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Taahia23&theme=dark" alt="GitHub Streak" /></a>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taahia23&" alt="taahia23" /></p>
+<a align="center" href="https://git.io/streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Taahia23&theme=dark" alt="GitHub Streak" /></a>
+
 <br/>
 <br/>
 
