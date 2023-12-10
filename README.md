@@ -34,14 +34,14 @@
 <br/>
 <br/> 
 
-<p align="center"><img align="center" width="450" src="https://github-readme-stats.vercel.app/api/top-langs?username=taahia23&show_icons=true&locale=en&layout=compact" alt="taahia23" /></p>
+<p align="left"><img align="center" width="450" src="https://github-readme-stats.vercel.app/api/top-langs?username=taahia23&show_icons=true&locale=en&layout=compact" alt="taahia23" /></p>
 
 
 <br/>
 <br/> 
 
 
-<p align="center">&nbsp;<img width="450" align="center" src="https://github-readme-stats.vercel.app/api?username=taahia23&show_icons=true&locale=en" alt="taahia23" /></p>
+<p align="right">&nbsp;<img width="450" align="center" src="https://github-readme-stats.vercel.app/api?username=taahia23&show_icons=true&locale=en" alt="taahia23" /></p>
 
 
 
