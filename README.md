@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **taahiatahsin@gmail.com**
 - 📫 I'm currenty working on my project **Online Grocery Store**
-- 📫 Exploring **Node js and  MongoDB**
+- 📫 Exploring **Redux Toolkit and  Mongoose**
 - 📫 Fun Fact **I'm also a nature photographer**
 
 <h1 align="center">Current stats</h1>
