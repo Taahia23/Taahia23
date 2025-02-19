@@ -15,7 +15,7 @@
 - 📫 Fun Fact **I'm also a nature photographer**
 
 <h1 align="center">Current stats</h1>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Taahia23&theme=dark" alt="GitHub Streak" /></a>
+//<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Taahia23&theme=dark" alt="GitHub Streak" /></a>
 <br/>
 <br/>
 
