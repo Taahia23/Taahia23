@@ -46,7 +46,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Taahia23&theme=monokai" alt="GitHub Stats">
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=taahia23&bg_color=212121&color=9e4c98&line=c34bbb&point=7c7979&area=true&hide_border=true" width="90%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=taahia23&bg_color=212121&color=9e4c98&line=c34bbb&point=7c7979&area=true&hide_border=true" width="70%">
 </p>
 
 
