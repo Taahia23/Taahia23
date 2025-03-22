@@ -45,6 +45,12 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Taahia23&theme=monokai" alt="GitHub Repo Stats" style="margin-right: 10px;">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Taahia23&theme=monokai" alt="GitHub Stats">
 </p>
+<p align="center">
+  [![Taahia's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Taahia23&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/Taahia23)
+</p>
+
+
+
 
 ## My Awesome Project 🔥
  ### Real Estate Platform 
