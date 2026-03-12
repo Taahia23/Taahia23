@@ -13,16 +13,16 @@
 - 📄 **IEEE Conference Author**
 - 📊 Working with Bangla NLP datasets and deep learning models
 - 🌿 Fun fact: I enjoy nature photography and exploring nature
-- 📚 Currently exploring Computer Vision
-- 
+- 📚 Currently exploring **Computer Vision**
+  
 <h1 align="center">🔬 Research Interests</h1>
+
 <ul>
-<li>Natural Language Processing (NLP)</li>
-<li>Machine Learning & Deep Learning</li>
-<li>Bangla Language Processing</li>
-<li>AI for Social Media Analysis</li>
-<li>Computer Vision</li>
-<li>Human–Computer Interaction (HCI)</li>
+<li>📫 Natural Language Processing (NLP)</li>
+<li>📫 Machine Learning & Deep Learning</li>
+<li>📫 AI for Social Media Analysis</li>
+<li>📫 Computer Vision</li>
+<li>📫 Human–Computer Interaction (HCI)</li>
 </ul>
 
 <br/>
@@ -105,16 +105,12 @@
 <br/> 
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Taahia23&theme=monokai" alt="GitHub Profile Details">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Taahia23&theme=dark" alt="GitHub Profile Details">
 </p>
 
 
-
-
-
-
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Taahia23&theme=monokai" alt="GitHub Repo Stats" style="margin-right: 10px;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Taahia23&theme=dark" alt="GitHub Repo Stats" style="margin-right: 10px;">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Taahia23&theme=monokai" alt="GitHub Stats">
 </p>
 <p align="center">
