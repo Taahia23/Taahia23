@@ -1,4 +1,4 @@
-![Front-End web developer](https://github.com/Taahia23/Taahia23/blob/main/2.png)
+![Front-End web developer](https://github.com/Taahia23/Taahia23/blob/main/3_banner.png)
 
 
 
