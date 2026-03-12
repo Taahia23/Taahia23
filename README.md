@@ -16,12 +16,14 @@
 - 📚 Currently exploring Computer Vision
 - 
 <h1 align="center">🔬 Research Interests</h1>
-- 📫 Natural Language Processing (NLP)
-- 📫 Machine Learning & Deep Learning
-- 📫 Bangla Language Processing
-- 📫 AI for Social Media Analysis
-- 📫 Computer Vision
-- 📫 Human–Computer Interaction (HCI)
+<ul>
+<li>Natural Language Processing (NLP)</li>
+<li>Machine Learning & Deep Learning</li>
+<li>Bangla Language Processing</li>
+<li>AI for Social Media Analysis</li>
+<li>Computer Vision</li>
+<li>Human–Computer Interaction (HCI)</li>
+</ul>
 
 <br/>
 
@@ -55,10 +57,6 @@
 
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
-</a> &nbsp; &nbsp;
-
-<a href="https://fasttext.cc/" target="_blank" rel="noreferrer">
-<img src="https://seeklogo.com/images/F/fasttext-logo-02F5F7C6F4-seeklogo.com.png" alt="fasttext" width="40" height="40"/>
 </a> &nbsp; &nbsp;
 
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
