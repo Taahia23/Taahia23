@@ -8,7 +8,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taahia23&label=Profile%20views&color=0e75b6&style=flat" alt="taahia23" /> </p>
 
 - 🎓 B.Sc. in **Computer Science and Engineering**
-
 - 📫 How to reach me **taahiatahsin00@gmail.com**
 - 📄 **IEEE Conference Author**
 - 📊 Working with Bangla NLP datasets and deep learning models
@@ -24,8 +23,6 @@
 <li>📫 Computer Vision</li>
 <li>📫 Human–Computer Interaction (HCI)</li>
 </ul>
-
-<br/>
 
 <h1 align="center">Current stats</h1>
 <br/>
