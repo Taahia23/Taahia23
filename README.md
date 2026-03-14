@@ -136,6 +136,7 @@ A prototype AI system that detects emotions from Bangla text and provides suppor
  - Hugging Face Spaces
    
  - [Live Site](https://huggingface.co/spaces/taahia26/bangla-mental-health-ai)
+ - [Repository](https://github.com/Taahia23/HumanAI_MentalHealth)
    
  ### Real Estate Platform 
  ### Description: 
