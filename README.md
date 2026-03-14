@@ -125,25 +125,21 @@
  ### Bangla Mental Health Emotion Detection and Human–AI Interaction Prototype
  ### Description: 
 A prototype AI system that detects emotions from Bangla text and provides supportive responses through an interactive interface. The project explores natural language processing techniques and human–AI interaction for mental health support in low-resource languages like Bangla.
- ### Technologies Used :
- - Python
- - scikit-learn
- - pandas
- - NumPy
- - Gradio
- - TF‑IDF
- - Logistic Regression
- - Hugging Face Spaces
-   
- - [Live Site](https://huggingface.co/spaces/taahia26/bangla-mental-health-ai)
- - [Repository](https://github.com/Taahia23/HumanAI_MentalHealth)
+### Technologies Used :
+- Programming Language : Python
+- Data Analysis : Pandas, NumPy
+- Machine Learning : Scikit-learn, TF-IDF, Logistic Regression
+- Deployment / Interface : Gradio, Hugging Face Spaces
+
+- [Live Site](https://huggingface.co/spaces/taahia26/bangla-mental-health-ai)
+- [Repository](https://github.com/Taahia23/HumanAI_MentalHealth)
    
  ### Real Estate Platform 
  ### Description: 
 Homez, an online platform where people can add and buy real estate properties using the MERN stack. There is three dashboard for Admin, Agent and user.. User can easily buy a property as they wish..
  ### Technologies Used :  
  - Front-End : React JS, JavaScript, Tailwind CSS, HTML  
- -  Back-End: Express JS, Node JS
+ - Back-End: Express JS, Node JS
  - Database : MongoDB
  - Authentication : Firebase with JWT
 
