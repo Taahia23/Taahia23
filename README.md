@@ -122,7 +122,7 @@
 
 
 ## Machine Learning Project 🔥
- ### Bangla Mental Health Emotion Detection and Human–AI Interaction Prototype
+ ### Bangla Mental Health Emotion Detection and Human–AI Interaction
  ### Description: 
 A prototype AI system that detects emotions from Bangla text and provides supportive responses through an interactive interface. The project explores natural language processing techniques and human–AI interaction for mental health support in low-resource languages like Bangla.
 ### Technologies Used :
@@ -133,6 +133,19 @@ A prototype AI system that detects emotions from Bangla text and provides suppor
 
 - [Live Site](https://huggingface.co/spaces/taahia26/bangla-mental-health-ai)
 - [Repository](https://github.com/Taahia23/HumanAI_MentalHealth)
+
+  ### Loan Default Prediction
+ ### Description: 
+A machine learning-based system that predicts the likelihood of loan default using borrower financial and personal information. The project applies predictive modeling techniques and provides an interactive web interface for real-time loan risk assessment.
+### Technologies Used :
+- Programming Language : Python
+- Data Analysis : Pandas, NumPy
+- Machine Learning : Scikit-learn, Random Forest, Linear Model, MLP Classifier
+- Deployment / Interface : Streamlit
+- Model Management : Joblib
+
+- [Live Site](https://taahia23-loan-default-prediction-appapp-fqvcgp.streamlit.app/)
+- [Repository](https://github.com/Taahia23/Loan_Default_Prediction)
 
 ## Web Development Projects 🔥
  ### Real Estate Platform 
