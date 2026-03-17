@@ -134,7 +134,7 @@ A prototype AI system that detects emotions from Bangla text and provides suppor
 - [Live Site](https://huggingface.co/spaces/taahia26/bangla-mental-health-ai)
 - [Repository](https://github.com/Taahia23/HumanAI_MentalHealth)
 
-  ### Loan Default Prediction
+ ### Loan Default Prediction
  ### Description: 
 A machine learning-based system that predicts the likelihood of loan default using borrower financial and personal information. The project applies predictive modeling techniques and provides an interactive web interface for real-time loan risk assessment.
 ### Technologies Used :
