@@ -174,14 +174,6 @@ Homez, an online platform where people can add and buy real estate properties us
  - [Server Site](https://github.com/Taahia23/dina-restaurant-server)
  - [Live Site](https://brawny-pan.surge.sh/)
 
- ### Donation Camp
- ### Description: 
- Online Donation Camp is user-friendly website, where user can donate money to specific category as they want. They also can see how many money they have doneted
- ### Technologies Used :  
- - Front-End : React JS, JavaScript, Tailwind CSS, HTML  
-
- - [Client Site](https://github.com/programming-hero-web-course-4/b8a8-donation-campaign-Taahia23)
- - [Live Site](http://didactic-smoke.surge.sh/)
 
 
                       
