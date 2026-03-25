@@ -121,7 +121,7 @@
 
 
 
-## Machine Learning Project 🔥
+## Machine Learning Projects 🔥
  ### Bangla Mental Health Emotion Detection and Human–AI Interaction
  ### Description: 
 A prototype AI system that detects emotions from Bangla text and provides supportive responses through an interactive interface. The project explores natural language processing techniques and human–AI interaction for mental health support in low-resource languages like Bangla. For this project I had created a bangla dataset with 3000 data points which are classified into four categeroies (Happy, Sad, Neutral, Depression)
@@ -147,7 +147,7 @@ A machine learning-based system that predicts the likelihood of loan default usi
 - [Live Site](https://taahia23-loan-default-prediction-appapp-fqvcgp.streamlit.app/)
 - [Repository](https://github.com/Taahia23/Loan_Default_Prediction)
 
-## Web Development Projects 🔥
+## Web Development Project 🔥
  ### Real Estate Platform 
  ### Description: 
   Homez, an online platform where people can add and buy real estate properties using the MERN stack. There is three dashboard for Admin, Agent and user.. User can easily buy a property as they wish..
