@@ -147,7 +147,7 @@ A machine learning-based system that predicts the likelihood of loan default usi
 - [Live Site](https://taahia23-loan-default-prediction-appapp-fqvcgp.streamlit.app/)
 - [Repository](https://github.com/Taahia23/Loan_Default_Prediction)
 
-## Web Development Project 🔥
+## Web Development Projects 🔥
  ### Real Estate Platform 
  ### Description: 
   Homez, an online platform where people can add and buy real estate properties using the MERN stack. There is three dashboard for Admin, Agent and user.. User can easily buy a property as they wish..
