@@ -12,6 +12,7 @@
 - 📄 **IEEE Conference Author**
 - 📊 Working with Bangla NLP datasets and deep learning models
 - 🌿 Fun fact: I enjoy nature photography and exploring nature
+- 🌿 NB: Python is next to my name, but I’m not venomous in real life
 - 📚 Currently exploring **Computer Vision**
   
 <h1 align="center">🔬 Research Interests</h1>
