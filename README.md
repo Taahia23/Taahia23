@@ -123,7 +123,7 @@
 
 
 ## Machine Learning Projects 🔥
-### Bangla Mental Health Emotion Detection and Human–AI Interaction
+ ### Bangla Mental Health Emotion Detection and Human–AI Interaction
  ### Description: 
 A prototype AI system that detects emotions from Bangla text and provides supportive responses through an interactive interface. The project explores natural language processing techniques and human–AI interaction for mental health support in low-resource languages like Bangla. For this project I had created a bangla dataset with 3000 data points which are classified into four categeroies (Happy, Sad, Neutral, Depression)
 ### Technologies Used :
