@@ -28,10 +28,19 @@
 <h1 align="center">Current stats</h1>
 <br/>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 
-<a href="https://linkedin.com/in/taahia tahsin"  target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taahia tahsin" height="30" width="40" /></a>  &nbsp; &nbsp;
-<a href="https://fb.com/taahia tahsin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="taahia tahsin" height="30" width="40" /></a>
+<div align="center">
+
+<a href="https://linkedin.com/in/taahia-tahsin" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
+
+<a href="https://fb.com/taahia.tahsin" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/>
+</a>
+
+</div>
 
 
 <br/>
