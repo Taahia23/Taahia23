@@ -30,7 +30,7 @@
 
 <h3 align="center">Connect with me:</h3>
 
-<div align="center">
+<div align="center" display="flex">
 
 <a href="https://linkedin.com/in/taahia-tahsin" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
